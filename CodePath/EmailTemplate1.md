@@ -1,6 +1,9 @@
+<p style="text-align:justify">
+
+
 # Scenario A: Request to bump up to Advanced Track
 
-Dear John, 
+Dear "firstName", 
 
 
 I want to start by letting you know that we are very much pleased with your academic standing. We carefully weighed the arguments you presented concerning the level of program you are currently admitted to and appreciate your eagerness to apply to a more advanced track. 
@@ -15,3 +18,5 @@ We are very much excited to have you on board!
 
 
 Best Regards,
+
+</p>
