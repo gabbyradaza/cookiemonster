@@ -1,4 +1,4 @@
-<div style="text-align:justify">
+<div style="text-align:right">
 
 
 # Scenario A: Request to bump up to Advanced Track
